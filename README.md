@@ -11,8 +11,8 @@ Built with **React**, **TypeScript**, **Vite**, and **TailwindCSS**.
 - 🎤 Audio recording and playback
 - 🤖 CEFR level assessment using AI models
 - 📊 Visual analysis with radar and bar charts
-- 🧠 Modular and context-based React architecture
 - 📄 PDF certificate generation
+- 📁 Modular file structure with reusable components and hooks
 
 ---
 
@@ -22,15 +22,16 @@ Built with **React**, **TypeScript**, **Vite**, and **TailwindCSS**.
 |-------------|------------------------------------------------|
 | Frontend    | React, TypeScript, Vite                        |
 | Styling     | TailwindCSS                                    |
-| Charts      | Chart.js or Recharts (check code for actual)  |
+| Charts      | Chart.js or Recharts                           |
 | Audio       | Web Audio + MediaRecorder API                  |
-| PDF Export  | jsPDF or similar                               |
+| PDF Export  | jsPDF                                          |
 
 ---
 
 ## ⚙️ Getting Started
 
 ### 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/varadjoshi08/ai-assisted-cefr-assessment.git
 cd ai-assisted-cefr-assessment
