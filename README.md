@@ -28,6 +28,11 @@ Built with **React**, **TypeScript**, **Vite**, and **TailwindCSS**.
 
 ---
 
+## 📂 Project Structure (Simplified)
+
+
+---
+
 ## ⚙️ Getting Started
 
 ### 1️⃣ Clone the repository
@@ -35,3 +40,7 @@ Built with **React**, **TypeScript**, **Vite**, and **TailwindCSS**.
 ```bash
 git clone https://github.com/varadjoshi08/ai-assisted-cefr-assessment.git
 cd ai-assisted-cefr-assessment
+
+npm install
+
+npm run dev
